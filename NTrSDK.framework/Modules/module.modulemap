@@ -1,0 +1,6 @@
+framework module NTrSDK {
+  umbrella header "NTrSDK.h"
+  export *
+
+  module * { export * }
+}
